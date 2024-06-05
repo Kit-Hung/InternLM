@@ -38,3 +38,22 @@
 
 ## Web demo 部署
 ![img_13.png](images/img_13.png)
+
+
+
+# XTuner多模态训练与测试
+按照教程安装出来的 transformers 版本为 4.41.2，在执行 1.3.4.3 开始 Finetune 时会报如下的错
+![img.png](images/img_14.png)
+
+修复方法如下，安装 4.39.3 版本：
+```shell
+pip install transformers==4.39.3
+```
+
+已提交 pr 增加版本限制
+
+## Finetune 前
+![img_1.png](images/img_15.png)
+
+## Finetune后
+![img_2.png](images/img_16.png)
