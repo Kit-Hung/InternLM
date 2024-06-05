@@ -50,7 +50,8 @@
 pip install transformers==4.39.3
 ```
 
-已提交 pr 增加版本限制
+1. 已提交 pr 增加版本限制
+2. 建议在文档 https://github.com/InternLM/Tutorial/blob/camp2/xtuner/llava/xtuner_llava.md 的 1.3.1.2 XTuner安装 中使用有版本限制的分支，或在文档下方提示需要把 transformers 的版本安装 4.41.0 之前版本，不包括 4.41.0
 
 ## Finetune 前
 ![img_1.png](images/img_15.png)
