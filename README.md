@@ -6,3 +6,4 @@
 |     4     | 小助手                      | [module4](module4/homework.md)  |
 |     5     | 配置 LMDeploy 运行环境并对话      | [module5](module5/homework.md)  |
 |     6     | Lagent & AgentLego 智能体搭建 | [module6](module6/homework.md)  |
+|     7     | 使用 OpenCompass 评测        | [module7](module7/homework.md)  |
