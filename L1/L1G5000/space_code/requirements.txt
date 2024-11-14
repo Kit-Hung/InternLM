@@ -1,0 +1,6 @@
+streamlit==1.40.1
+transformers==4.39.0
+torch==2.4.1
+torchvision==0.19.1
+torchaudio==2.4.1
+einops==0.8.0
