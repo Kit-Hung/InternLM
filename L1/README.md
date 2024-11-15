@@ -7,5 +7,6 @@
 | 3  | 浦语提示词工程实践                    | [L1G3000](L1G3000/L1G3000.md) |
 | 4  | InternLM + LlamaIndex RAG 实践 | [L1G4000](L1G4000/L1G4000.md) |
 | 5  | XTuner 微调个人小助手认知             | [L1G5000](L1G5000/L1G5000.md) |
+| 6  | OpenCompass 评测书生大模型实践        | [L1G6000](L1G6000/L1G6000.md) |
 
       
